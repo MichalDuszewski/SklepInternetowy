@@ -14,7 +14,7 @@
     <p>Nazywam się Michał Duszewski, a projekt to Sklep Internetowy stworzony całkowicie przeze mnie przy użyciu PHP i bazy danych MySQL. 
             Operacje na bazie danych wykonowane są za pomocą samodzielnie stworzonych endpointów REST API. 
             Oprawa wizualna stworzona przy wykorzystaniu framoworku Boostrap.
-        	Pełny kod źródłowy dostępny w <a href="https://github.com" target="_blank">repozytorium na GitHubie</a>.
+        	Pełny kod źródłowy dostępny w <a href="https://github.com/MichalDuszewski/SklepInternetowy" target="_blank">repozytorium na GitHubie</a>.
      </p>
  </div>
     <footer class="container text-center py-3 fixed-bottom">
